@@ -1,3 +1,3 @@
-# Livro de receitas :man-cook
-Olá! Bem vindo ao meu livro de receitas
- - Sttro
+# Livro de receitas :man-cookse
+Olá! Bem vindo ao meu livro de receitasafa
+ - Sttrofe
